@@ -1,7 +1,6 @@
-# image-caption-and-tag-generator
 # 📸 Smart Image Caption + Tag Generator
 
-A mini GenAI project built using Google Gemini and Streamlit as part of the [GenAI Exchange Program](https://hack2skill.com/genai-exchange) by Hack2Skill and Google.
+A mini GenAI project built using Google Gemini and Streamlit as part of the [GenAI Exchange Program]([https://hack2skill.com/genai-exchange](https://vision.hack2skill.com/event/genaiexchange/?utm_source=hack2skill&utm_medium=homepage)) by Hack2Skill and Google.
 
 This app allows users to upload images and receive:
 - AI-generated **captions** in different styles
